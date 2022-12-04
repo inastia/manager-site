@@ -10,8 +10,8 @@ This is an intermediate coding challenge from Frontend Mentor (https://www.front
 
 ### Primary Colors
 
-Bright Red: hsl(12, 88%, 59%)
-Dark Blue: hsl(228, 39%, 23%)
+- Bright Red: hsl(12, 88%, 59%)
+- Dark Blue: hsl(228, 39%, 23%)
 
 ### Neutral Colors
 
