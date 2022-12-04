@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+   html {
+      font-family: 'Be Vietnam Pro', sans-serif;
+   }
+}
+
 body {
    background-image: url('../img/bg-tablet-pattern.svg');
    background-repeat: no-repeat;
@@ -23,7 +29,9 @@ body {
    #cta {
       background-image: url('../img/bg-simplify-section-mobile.svg');
    }
+
 }
+
 
 /* Hamburger Menu */
 .hamburger {

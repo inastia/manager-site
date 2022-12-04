@@ -4,9 +4,12 @@ module.exports = {
   theme: {
     screens: {
       sm: '480px',
-      md: '768px',
-      lg: '976px',
-      xl: '1440px',
+      md: '960px',
+      lg: '1240px',
+      xl: '2000px',
+    },
+    fontFamily: {
+      'body': ['Be Vietnam Pro', 'sans-serif'],
     },
     extend: {
       colors: {
@@ -18,7 +21,7 @@ module.exports = {
         veryDarkBlue: 'hsl(233, 12%, 13%)',
         veryPaleRed: 'hsl(13, 100%, 96%)',
         veryLightGray: 'hsl(0, 0%, 98%)',
-      }
+      },
     },
   },
   plugins: [],
