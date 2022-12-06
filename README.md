@@ -4,7 +4,8 @@
 
 ## Description 
 
-This is an intermediate coding challenge from Frontend Mentor (https://www.frontendmentor.io). The challende is to build out this landing page and get it looking as close to the design as possible.
+This is an intermediate coding challenge via Frontend Mentor (https://www.frontendmentor.io). 
+The challende is to build out this landing page and get it looking as close to the design as possible.
 
 ## Design
 
@@ -28,9 +29,13 @@ This is an intermediate coding challenge from Frontend Mentor (https://www.front
 
 ## My Process 
 
-### Built with
+The project is built using:
 
 - Semantic HTML5 markup
 - Tailwind
 - Flexbox
 - Mobile-first workflow
+
+## What I Learned
+
+Start writing out Tailwind classes from mobile view to lanscape view and from rest state of the element to auxiliary states (e.g. hover state). 
